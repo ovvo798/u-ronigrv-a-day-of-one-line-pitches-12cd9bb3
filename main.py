@@ -9,9 +9,9 @@ an AI agent build their first app idea on make.fun.
 import os
 
 SENTENCE = (
-    "You've talked about that app idea for ages \u2014 just describe it in "
-    "plain words on make.fun and an AI agent will build you a real first "
-    "version today, free to try, no code needed from you at all."
+    "That app idea you've been carrying around for ages \u2014 just tell "
+    "make.fun about it in plain words and an AI agent will build you a "
+    "real first version today, free to try, no coding needed."
 )
 
 
